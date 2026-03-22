@@ -1,3 +1,4 @@
 # demo-repo
-Demo for git-hub intro 
+Demo for git-hub intro.
+
 Project description.
